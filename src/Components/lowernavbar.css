@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1800px) {
+
+    .lowerNavbar {
+        overflow: hidden;
+        height: 15vh;
+        padding-bottom: 2vh;
+    }
+    .logoboxItem {
+        margin-right: 0.1rem;
+        width: 10vh;
+        height: 10vh;
+        margin-left: 1.6rem;
+    }
+    .filter {  
+        margin-left: 2.7rem;
+    }
+    .filterItem {
+        max-width: 5rem;
+        margin-left: -1vh;
+        overflow: hidden;
+        padding-left: -2vh;
+    }
+    .filterIcon{
+        width: 1rem;
+        margin-left: -0.5vh;
+        align-items: center;
+    }
+    .filterTitle {
+        align-items: center;
+        padding-right: 0.1rem;
+        padding-left: 0.1rem;
+    }
+
+}
+
+/*
+2400
+1714
+*/

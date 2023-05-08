@@ -1,0 +1,7 @@
+@media only screen and (max-width: 1800px) {
+    .mainHouse {
+        display: flex;
+        justify-content: space-between;
+        margin-top: -8vh;
+    }
+}

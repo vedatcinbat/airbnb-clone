@@ -1,0 +1,39 @@
+@media only screen and (max-width: 1800px) {
+  
+  .box {
+    width: 35vh;
+    margin-bottom: 1rem;
+    min-height: 60vh;
+    max-height: 60vh;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .imgPart{
+    height: 10rem;
+    border-radius: 1.5rem;
+    margin-bottom: -20px;  
+  }
+  
+
+  .sliderImg{
+    transform: translateY(-10vh);
+  }
+  .addButton {
+    align-items: center;
+    width: 10vh;
+    font-size: 10px;
+  }
+  
+  
+ 
+}
+
+
+#img {
+  border-radius: 1.5rem;
+  max-height: 237.33px;
+  min-height: 237.33px;
+}
+
